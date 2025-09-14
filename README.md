@@ -1,6 +1,6 @@
 南京大学22级智能软件与工程学院资料分享 
 
-侵权可删 联系作者： 邮件：interestcircle@163.com
+侵权可删 联系作者：interestcircle@163.com，欢迎PR。
 
 大三课程笔记/期末复习见 https://rxvbm0eadc4.feishu.cn/docx/HDrndg7TBo40ERxQFwlcr7zvnUd
 
