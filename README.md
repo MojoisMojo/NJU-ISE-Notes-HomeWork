@@ -17,7 +17,7 @@
   - 理论作业 见本仓库，复习用的是他人的不便公开
 
 - CPP 
-  - 部分 可见njutym佬的仓库 https://github.com/njutym/NJU\_SIST\_22
+  - 部分 可见njutym佬的仓库 [https://github.com/njutym/NJU\_SIST\_22](https://github.com/njutym/NJU_SIST_22)
   - 实验课 与 理论作业 见 https://gitee.com/mojoisme/nju-advanced-programming-for-cpp
 
 ---
